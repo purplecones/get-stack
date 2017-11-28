@@ -1,6 +1,6 @@
-# wappalyzer
+# get-stack
 
-GET | `https://wappalyzer.now.sh/?url=https://www.zeit.co&recursive=true`
+GET | `https://get-stack.now.sh/?url=https://www.zeit.co&recursive=true`
 
 ```json
 {
