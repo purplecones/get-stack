@@ -1,0 +1,16 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "dependencies": {
+    "micro": "^9.0.2",
+    "query-string": "^5.0.1",
+    "wappalyzer": "^5.2.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^1.4.0",
+    "prettier": "^1.8.2"
+  }
+}
